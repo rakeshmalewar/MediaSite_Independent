@@ -1,0 +1,7 @@
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\obj\Debug\DH.Media.Core.Domain.csprojResolveAssemblyReference.cache
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\bin\Debug\DH.Media.Core.Domain.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\bin\Debug\DH.Media.Core.Domain.pdb
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\obj\Debug\DH.Media.Core.Domain.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Domain\obj\Debug\DH.Media.Core.Domain.pdb

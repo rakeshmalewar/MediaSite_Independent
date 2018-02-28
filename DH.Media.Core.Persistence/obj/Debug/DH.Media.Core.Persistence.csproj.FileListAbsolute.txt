@@ -1,0 +1,5 @@
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Persistence\bin\Debug\DH.Media.Core.Persistence.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Persistence\bin\Debug\DH.Media.Core.Persistence.pdb
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Persistence\obj\Debug\DH.Media.Core.Persistence.csprojResolveAssemblyReference.cache
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Persistence\obj\Debug\DH.Media.Core.Persistence.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Persistence\obj\Debug\DH.Media.Core.Persistence.pdb

@@ -1,0 +1,13 @@
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\obj\Debug\DH.Media.Core.Application.csprojResolveAssemblyReference.cache
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Application.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Application.pdb
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Domain.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Enterprise.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Integration.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Domain.pdb
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Enterprise.pdb
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\DH.Media.Core.Integration.pdb
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\obj\Debug\DH.Media.Core.Application.dll
+C:\GitHub\DignityHealth\DH.Media.API.Solution\DH.Media.Core.Application\obj\Debug\DH.Media.Core.Application.pdb
